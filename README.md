@@ -1,4 +1,4 @@
-#Raxin Core
+# Raxin Core
 
 A game engine core written in Go.
 
@@ -20,6 +20,6 @@ Running
 bash
 go run .
 
-#Author
+# Author
 
 Enniziamo
